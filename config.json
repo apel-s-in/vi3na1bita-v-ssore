@@ -1,0 +1,166 @@
+{
+  "albumName": "Не всё равно",
+  "artist": "Витрина Разбита",
+  "albumYear": 2025,
+  "background": "img/bg.jpg",
+  "promoCode": "VITRINA2025",
+  "donateLink": "https://yoomoney.ru/to/ВАШ_СЧЁТ_ЯНДЕКС",
+  "socials": [
+    {"title": "YouTube", "url": "https://www.youtube.com/channel/UCbjm1J0V8RkWvNj4Z8-JIhA/"},
+    {"title": "Telegram", "url": "https://t.me/vitrina_razbita"},
+    {"title": "VK", "url": "https://vk.com/apelsinov"},
+    {"title": "TikTok", "url": "https://www.tiktok.com/@vi3na1bita"}
+  ],
+  "tracks": [
+    {
+      "uid": "NVR-01",
+      "title": " Манифест",
+      "audio": "audio/01.mp3",
+      "audio_low": "audio_low/01.mp3",
+      "lyrics": "lyrics/01.json",
+      "size": 9.60,
+      "size_low": 5.82,
+      "fulltext": "lyrics/01.txt"
+    },
+    {
+      "uid": "NVR-02",
+      "title": "Страх перемен",
+      "audio": "audio/02.mp3",
+      "audio_low": "audio_low/02.mp3",
+      "lyrics": "lyrics/02.json",
+      "size": 9.36,
+      "size_low": 5.68,
+      "fulltext": "lyrics/02.txt"
+    },
+    {
+      "uid": "NVR-03",
+      "title": "Им всё равно",
+      "audio": "audio/03.mp3",
+      "audio_low": "audio_low/03.mp3",
+      "lyrics": "lyrics/03.json",
+      "size": 10.90,
+      "size_low": 6.60,
+      "fulltext": "lyrics/03.txt"
+    },
+    {
+      "uid": "NVR-04",
+      "title": "Дремлют дети",
+      "audio": "audio/04.mp3",
+      "audio_low": "audio_low/04.mp3",
+      "lyrics": "lyrics/04.json",
+      "size": 10.55,
+      "size_low": 6.39,
+      "fulltext": "lyrics/04.txt"
+    },
+    {
+      "uid": "NVR-05",
+      "title": "Сквозь века",
+      "audio": "audio/05.mp3",
+      "audio_low": "audio_low/05.mp3",
+      "lyrics": "lyrics/05.json",
+      "size": 8.44,
+      "size_low": 5.12,
+      "fulltext": "lyrics/05.txt"
+    },
+    {
+      "uid": "NVR-06",
+      "title": "Ромашка",
+      "audio": "audio/06.mp3",
+      "audio_low": "audio_low/06.mp3",
+      "lyrics": "lyrics/06.json",
+      "size": 8.46,
+      "size_low": 5.13,
+      "fulltext": "lyrics/06.txt"
+    },
+    {
+      "uid": "NVR-07",
+      "title": "От взмаха крыла",
+      "audio": "audio/07.mp3",
+      "audio_low": "audio_low/07.mp3",
+      "lyrics": "lyrics/07.json",
+      "size": 8.02,
+      "size_low": 4.87,
+      "fulltext": "lyrics/07.txt"
+    },
+    {
+      "uid": "NVR-08",
+      "title": "Геракл",
+      "audio": "audio/08.mp3",
+      "audio_low": "audio_low/08.mp3",
+      "lyrics": "lyrics/08.json",
+      "size": 10.19,
+      "size_low": 6.17,
+      "fulltext": "lyrics/08.txt"
+    },
+    {
+      "uid": "NVR-09",
+      "title": "Муха",
+      "audio": "audio/09.mp3",
+      "audio_low": "audio_low/09.mp3",
+      "lyrics": "lyrics/09.json",
+      "size": 8.72,
+      "size_low": 5.29,
+      "fulltext": "lyrics/09.txt"
+    },
+    {
+      "uid": "NVR-10",
+      "title": "Хайп",
+      "audio": "audio/10.mp3",
+      "audio_low": "audio_low/10.mp3",
+      "lyrics": "lyrics/10.json",
+      "size": 8.72,
+      "size_low": 5.29,
+      "fulltext": "lyrics/10.txt"
+    },
+    {
+      "uid": "NVR-11",
+      "title": "Злюка",
+      "audio": "audio/11.mp3",
+      "audio_low": "audio_low/11.mp3",
+      "lyrics": "lyrics/11.json",
+      "size": 7.36,
+      "size_low": 4.47,
+      "fulltext": "lyrics/11.txt"
+    },
+    {
+      "uid": "NVR-12",
+      "title": "Прыщик",
+      "audio": "audio/12.mp3",
+      "audio_low": "audio_low/12.mp3",
+      "lyrics": "lyrics/12.json",
+      "size": 6.46,
+      "size_low": 3.94,
+      "fulltext": "lyrics/12.txt"
+    },
+    {
+      "uid": "NVR-13",
+      "title": "ЗвёзДочка",
+      "audio": "audio/13.mp3",
+      "audio_low": "audio_low/13.mp3",
+      "lyrics": "lyrics/13.json",
+      "size": 8.29,
+      "size_low": 5.03,
+      "fulltext": "lyrics/13.txt"
+    },
+    {
+      "uid": "IVR-14",
+      "title": "Кораблик",
+      "audio": "audio/14.mp3",
+      "audio_low": "audio_low/14.mp3",
+      "lyrics": "lyrics/14.json",
+      "size": 12.97,
+      "size_low": 7.84,
+      "fulltext": "lyrics/14.txt"
+    },
+    {
+      "uid": "NVR-15",
+      "title": "Рецепт любви",
+      "audio": "audio/15.mp3",
+      "audio_low": "audio_low/15.mp3",
+      "lyrics": "lyrics/15.json",
+      "size": 12.15,
+      "size_low": 7.35,
+      "fulltext": "lyrics/15.txt"
+    }
+  ]
+}
